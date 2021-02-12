@@ -1,0 +1,244 @@
+.navbar-brand{
+
+    
+    padding-left: 169px;
+
+}
+
+
+.zparkings{
+
+    position: absolute;
+    left: 232px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 100;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #7D7F80
+}
+
+
+.lja{
+
+    position: absolute;
+    left: 227px;
+    top: 44px;
+    color: #ACACAC;
+    font-size: 14px;
+}
+
+.navbar-nav{
+
+    padding-left: 473px;
+    margin-top: -52px;
+}
+
+.btn-primary{
+
+    background-color: rgba(255, 255, 255, 0) !important;
+    margin-left: 77% !important;
+    margin-top: -8.4% !important;
+    border: 1px solid black!important;
+    opacity: 16% !important;
+    padding-bottom: 7px !important;
+    padding-left: 14px !important;
+    padding-right: 13px !important;
+}
+
+.btn-secondary{
+
+    background-color: rgba(255, 255, 255, 0) !important;
+    margin-left: 73% !important;
+    margin-top: -5% !important;
+    border: 1px solid black!important;
+    opacity: 16% !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+#form-main-cadastro{
+
+    width: 16%;
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 17px;
+}
+
+.control-2{
+
+    display: flex;
+    margin-left: 21px;
+}
+
+
+#form-main-cadastro-1{
+
+    width: 80%;
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 17px;
+    margin-right: 20px;
+
+}
+
+#form-main-cadastro-2{
+
+    width: 80%;
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 17px;
+    margin-right: 20px;
+
+}
+
+#form-main-cadastro-3{
+
+    width: 80% !important;
+    border-radius: 0 !important;
+    padding-left: 22px !important;
+    margin-left: 17px !important;
+    margin-top: 35px !important;
+    margin-right: 20px !important;
+
+}
+
+#form-select-conclusao-3{
+
+    margin-top: 35px;
+    margin-right: 38px;
+    margin-left: 15px;
+    width: 173px;
+    margin-top: 34px;
+    margin-left: 19px;
+}
+
+#form-cadastro-10{
+
+    width: 173px;
+    margin-top: 34px;
+    margin-left: 19px;
+
+}
+
+.control-3{
+
+
+    display: flex;
+    margin-top: -29px;
+    margin-left: 34px;
+}
+
+#form-select-conclusao{
+
+    
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 0px;
+    width: 344%;
+
+}
+
+#form-select-conclusao-1{
+    
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: -10px;
+    width: 174%;
+}
+
+#form-main-conclusao-1{
+
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 3px;
+    margin-right: -14px;
+}
+
+#col-conclusao-main{
+
+    padding-left: 47px;
+    padding-right: 37px;
+}
+
+#form-main-conclusao-2{
+
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 35px;
+    margin-left: 3px;
+    margin-right: -19px;
+}
+
+#col-conclusao-main-2{
+
+    padding-left: 32px;
+
+}
+
+
+
+.codigo{
+
+    position: absolute;
+    left: 155px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.validade{
+
+    position: absolute;
+    left: 400px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fixo{
+
+    position: absolute;
+    left: 637px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.tipos{
+
+    position: absolute;
+    left: 881px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.conclusao-form{
+
+    padding-left: 38px;
+    margin-top: 40px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.desconto-2{
+
+    padding-right: 176px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hrs-3{
+
+    padding-right: 193px;
+   
+    font-family: 'Open Sans', sans-serif;
+}
+
+.ancora-1{
+
+    text-decoration: none;
+}

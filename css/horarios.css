@@ -1,0 +1,130 @@
+.ancora-1{
+    
+    text-decoration: none;
+
+}
+
+.zparkingz{
+
+    
+    position: absolute;
+    left: 233px;
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 100;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #7D7F80;
+
+}
+
+
+.lojas{
+
+    
+    position: absolute;
+    left: 229px;
+    top: 44px;
+    color: #ACACAC;
+    font-size: 14px;
+
+}
+
+
+.horarios-1{
+
+    border-radius: 0;
+    padding-left: 22px;
+    margin-top: 10px;
+    margin-left: 263px;
+    width: 56%;
+}
+
+.caixa-horarios{
+
+    display: flex;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.caixa-de-horarios{
+
+    margin-left: 25px;
+    margin-top: -34px;
+        
+}
+
+.horarios-form{
+
+    margin-left: 37px;
+}
+
+.caixa-10{
+
+    display: flex;
+    margin-left: 55px;
+    margin-top: 13px;
+}
+
+.col-horarios{
+
+    margin-left: 27px;
+}
+
+.col-horarios-2{
+
+    margin-left: 32px;
+}
+
+.tpi-veículo{
+
+    position: absolute;
+    left: 174px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mnt-gratis{
+
+    position: absolute;
+    left: 399px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.horario-fixo{
+
+    position: absolute;
+    left: 626px;
+    opacity: 26%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.formas-de-pagamento{
+
+    margin-left: 19px;
+}
+
+.form-pagamento{
+
+    padding-right: 68px;
+}
+
+.vlr-pago{
+
+    padding-right: 152px;
+}
+
+.fomr-1{
+
+    margin-top: 48px;
+}
+
+.tip-de-cliente{
+
+    padding-right: 359px;
+}
+
+#div-form{
+
+    margin-top: -68px;
+}
